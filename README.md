@@ -2,10 +2,6 @@
 
 This repository contains code for "Analysis of Twitter Users’ Lifestyle Choices using Joint Embedding Model", ICWSM 2021
 
-Multi-View Representation for Understanding Lifestyle Choices of Twitter Users
-
-#Joint Embedding Model
-
 ## Data:
 
 1. Please download the 'data' folder from following link (on request):
