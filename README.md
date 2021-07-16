@@ -1,6 +1,6 @@
 # Joint-Embedding-Model
 
-This repository contains code for "Analysis of Twitter Users’ Lifestyle Choices using Joint Embedding Model", ICWSM 2021
+This repository contains code for [[Analysis of Twitter Users’ Lifestyle Choices using Joint Embedding Model]](https://ojs.aaai.org/index.php/ICWSM/article/view/18057), ICWSM 2021.
 
 ## Data:
 
@@ -243,6 +243,20 @@ keto_BERT_longroberta_des+loc+Net+twt_utype_new_usergraph.ipynb
 
 ```
 
+## Citation:
 
+If you find the paper useful in your work, please cite:
+
+```
+@inproceedings{islam2021analysis,
+  title={Analysis of Twitter Users' Lifestyle Choices using Joint Embedding Model},
+  author={Islam, Tunazzina and Goldwasser, Dan},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={15},
+  pages={242--253},
+  year={2021}
+}
+
+```
 
 
