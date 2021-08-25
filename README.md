@@ -6,7 +6,7 @@ This repository contains code for [[Analysis of Twitter Users’ Lifestyle Choic
 
 1. Please download the 'data' folder from following link (on request):
 
-https://drive.google.com/drive/folders/1_3TrcwVE2iWKL88fblDluEA5vJ3R0qvf?usp=sharing
+[[Data]](https://purdue0-my.sharepoint.com/:f:/g/personal/islam32_purdue_edu/Ephi4L1NwM1Phy0NgcVueigBMKxOtl0ZBUKUQ_xL1wMJlw?e=da4Omn)
 
 2. 'data' folder should be kept inside the 'Joint-Embedding-Model/code' folder. 
 
