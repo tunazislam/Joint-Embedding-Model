@@ -1,6 +1,6 @@
 # Joint-Embedding-Model
 
-This repository contains code for [ [Analysis of Twitter Users’ Lifestyle Choices using Joint Embedding Model](https://ojs.aaai.org/index.php/ICWSM/article/view/18057) ], [ICWSM 2021](https://www.icwsm.org/2021/index.html).
+This repository contains code for [ [Analysis of Twitter Users’ Lifestyle Choices using Joint Embedding Model](https://ojs.aaai.org/index.php/ICWSM/article/view/18057/17860) ], [ICWSM 2021](https://www.icwsm.org/2021/index.html).
 
 ## Data:
 
